@@ -1,0 +1,35 @@
+.img1{
+    width: 45px;
+    height: 45px;
+    border-radius: 30px;
+    vertical-align: middle;
+}
+.search{
+    vertical-align: middle ;
+    width: 200px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    border-style: none ;
+
+}
+.b1{
+    background-color: rgb(72, 81, 206);
+    border-radius: 12px;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    padding-left: 8px;
+    padding-right: 8px;
+    border-style: none;
+    color: white;
+    font-weight: bold;
+    font-size: 12px;
+
+}
+.dive1{
+    width: 320px;
+    border-radius: 5px;
+    padding-left: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    box-shadow: 0 1px 5px rgba(0, 0, 0, 0.5);
+}

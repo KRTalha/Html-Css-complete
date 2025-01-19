@@ -1,0 +1,42 @@
+.img1{
+    width: 150px;
+    height: 120px;
+
+}
+.p1{
+    font-size: 17px;
+    font-weight: bold ;
+    margin-top: 5px;
+    padding-left: 7px;
+    margin-bottom: 1px;
+
+}
+.p2{
+    margin-top: 3px;
+    padding-left: 7px;
+    color: rgb(64, 64, 64) ;
+    margin-bottom: 8px;
+}
+
+.b1{
+    background-color: rgb(12, 83, 146);
+    margin-left: 7px;
+    border-radius: 3px;
+    border-style: none;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    color: aliceblue;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-top: 1px;
+
+}
+.dive1{
+   
+    width: fit-content;
+    padding-bottom: 7px;
+    box-shadow: 0 1px 5px rgba(0, 0, 0, 0.5);
+    display: inline-block;
+    margin-left: 10px;
+}
+

@@ -1,0 +1,23 @@
+.logo{
+    display: block ;
+    width: 200px;
+    
+    margin-left: 50px;
+    margin-bottom: 10px;
+   
+
+}
+.google{
+    
+    padding-left: 16px;
+    padding-right: 16px;
+    padding-top: 12px;
+    padding-bottom: 5px;
+    box-shadow: 0 1px 5px rgba(0,0,0,0.5);
+    border-radius: 30px;
+    border-style: none;
+    width: 200px;
+    font-size: 16px;
+    width: 500px;
+
+}

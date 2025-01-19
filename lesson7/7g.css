@@ -1,0 +1,31 @@
+.img1{
+    height: 50px;
+    width: 50px;
+    object-fit: cover;
+    border-radius: 25px;
+    vertical-align: middle;
+    margin-right: 5px;
+    
+}
+.input1{
+    border: none;
+    font-size: 18px ;
+    vertical-align: middle;
+    width: 300px;
+
+
+}
+
+.b1{
+    background-color: rgb(29, 155, 240);
+    color: wheat;
+    border: none;
+    border-radius: 30px;
+    font-size: 16px;
+    font-weight: bold;
+   
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+}

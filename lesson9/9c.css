@@ -1,0 +1,10 @@
+.dive{
+    width: 300px;
+    display: inline-block;
+    border-width: 1px;
+    border-style: solid;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+}
