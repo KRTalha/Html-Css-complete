@@ -3,11 +3,15 @@
     display: flex;
     flex-direction: row;
     justify-content: space-between;
+    align-items: center;
 }
 
 .left-section{
     background-color: lightblue ;
     width: 150px;
+    display: felx;
+    align-items: center;
+    
 }
 .middle-section{
     background-color: pink ;
@@ -20,4 +24,10 @@
     background-color: lightblue ;
     width: 200px;
     
+}
+.hamburger-menu{
+    height: 20px;
+}
+.youtube-logo{
+    height: 20px;
 }

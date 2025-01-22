@@ -1,0 +1,28 @@
+.flexbox{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    background-color: rgb(134, 47, 227);
+}
+
+.item1{
+    color: aliceblue;
+    font-family: Arial;
+    font-weight: bold;
+    padding-left: 15px;
+}
+
+.item2{
+    
+   padding-top: 10px;
+}
+.search{
+    width: 300ox;;
+    padding-top: 10px;
+    align-items: center;
+
+}
+.bar{
+    flex: 1;
+}
