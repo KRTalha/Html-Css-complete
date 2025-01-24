@@ -1,0 +1,23 @@
+.flexbox{
+    display: flex;
+    flex-direction: row;     
+    height: 40px;
+}
+.item1{
+    background-color: pink;
+    width: 100px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;    
+}
+.item2{
+    background-color: lightblue;
+    width: 200px;
+
+}
+
+.text{
+    background-color: black;
+  color: aqua;
+}

@@ -1,0 +1,75 @@
+.flexbox{
+    width: 280px;
+    height: 120px;
+   
+    box-shadow: 0 1px 5px rgba(0, 0, 0, 0.5);
+}
+
+.head{
+    display: block;
+    color: gray;
+    font-family: Arial;
+    font-size: 8px;
+    padding-top: 5px;
+    padding-left: 8px;
+    height: 19px;
+ 
+
+}
+
+.secbox{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding-left: 8px;
+   
+
+}
+
+
+
+.debo{
+    height: 32px;
+    border-radius: 16px;
+
+}
+
+.thirdbox{
+    flex: 1;
+   
+    padding-left: 8px;
+    padding-top: 12px;
+    width: 260px;
+}
+
+.forthbox{
+    display: flex;
+    justify-content: space-between;
+}
+.text1{
+    font-family: Arial;
+    font-weight: bold;
+    font-size: 12px;
+}
+.time{
+    font-size: 9px;
+    color: rgb(99, 99, 99);
+    padding-right: 5px;
+    font-family: Arial;
+}
+
+.text2{
+    font-family: Arial;
+    font-weight: bold;
+    font-size: 12px;
+    padding-top: 4px;
+}
+
+.Text3{
+    font-family: Arial;
+    
+    font-size: 10px;
+    padding-top: 4px;
+    color: rgb(99, 99, 99);
+}
+
