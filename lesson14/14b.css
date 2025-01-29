@@ -1,0 +1,14 @@
+.sidebar{
+    position: fixed;
+    background-color: green;
+    right: 0;
+    top:0;
+    bottom: 0;
+    
+    
+    
+}
+.text1{
+    color: white;
+    padding-right: 40px;
+}

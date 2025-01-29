@@ -1,0 +1,51 @@
+.sidebar{
+    position: fixed;
+    background-color: green;
+    right: 0;
+    top:0;
+    bottom: 0;
+    
+    
+    
+}
+.text1{
+    color: white;
+    padding-right: 40px;
+}
+.shadow{
+    position: fixed;
+    background-color: rgba(0, 0, 0, 0.4);
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+}
+
+.container{
+    position: fixed;
+    display: block;
+   width: 250px;
+   height: 100px;
+   background-color: white;
+   border-radius: 3px;
+   
+
+   
+    
+}
+
+.overlay {
+    background-color: rgba(0, 0, 0, 0.5);
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+.text3{
+    color: black;
+}

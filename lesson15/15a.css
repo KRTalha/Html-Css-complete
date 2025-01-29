@@ -1,0 +1,30 @@
+.fele{
+    
+    
+    position: absolute;
+    right: 20px;
+    top: 20px;
+   
+}
+
+.cross{
+    background-color: rgb(8, 8, 8);
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    border-radius: 50%;
+    color: white;
+    font-family: Arial;
+      
+    position: absolute;
+    right: 20px;
+    top: 20px;
+    border-style: none;
+   
+    
+
+}
+.page{
+    height: 3000px;
+}
